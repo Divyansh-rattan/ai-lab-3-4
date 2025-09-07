@@ -1,0 +1,3 @@
+1) the first code implements the A* Search Algorithm in Python to find the shortest path in a 2D grid while avoiding obstacles (rivers). The program takes user input for the grid, start, and goal positions, computes the optimal path, and visualizes it step by step using Tkinter GUI.
+2) The second code  implements a simple Chess AI using the Minimax algorithm with a basic material evaluation function. The program lets you play against the AI in the console by entering moves in UCI format
+3) the third code implements Tic-Tac-Toe game in C++ where you can play against an AI powered by the Minimax algorithm. The program lets you choose whether the AI plays as X (starting first) or O, and ensures optimal moves throughout the game.
